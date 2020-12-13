@@ -1,0 +1,20 @@
+let suggestions = [
+"web developers",
+"youtube",
+"facebook",
+"instagram",
+"cara hek satelit",
+"cara dedeos",
+"beli mobil avanza 15",
+"beli pacar baru",
+"bikin tempe",
+"apa itu css ?",
+"apa itu javascript",
+"belajar ngoding",
+"web progamming",
+"dimana letaknya cinta ?",
+"ada apa dengan cinta ?",
+"telegram",
+"mari ngoding",
+"jadi anak yang baik"
+];
